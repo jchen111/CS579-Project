@@ -1,4 +1,0 @@
-This car gets 36 to 40 mpg at 55 miles per hour
-At 60 miles per hour it gets 33.3 to 37 mpg.
-At 75 miles per hour it only gets 26 to 29 mpg.
-------------------------------------------------------------------------------------------
