@@ -2,7 +2,7 @@
 
 Project Repository of CS579 Social Network Analysis, team member JIAQI CHEN, XINGTAN HU, XIAOYANG LU 
 
-***Member Contribution:***
+**Member Contribution:**
 
 Jiaqi Chen  : collect data, logistic regression, textblob, report
 
@@ -10,7 +10,7 @@ Xingtan Hu  : collect data, Bernoulli / Gaussian Naive Bayes, report
 
 Xiaoyang Lu : collect data, PPT
 
-***Files included in this assignment:***
+**Files included in this assignment:**
 
 
 
