@@ -14,24 +14,24 @@ Xiaoyang Lu : collect data, PPT
 
 
 
-./Collect_data.ipynb
+***./Collect_data.ipynb***
 
-./data_collection_in_type/
+***./data_collection_in_type/***
 
-./edmunds_api_test.ipynb
+***./edmunds_api_test.ipynb***
 
-./predict_TCO.ipnb
+***./predict_TCO.ipnb***
 
-./Presentation.pdf
+***./Presentation.pdf***
 
-./Proposal.pdf
+***./Proposal.pdf***
 
-./Report.pdf
+***./Report.pdf***
 
-./total_cars_review/
+***./total_cars_review/***
 
-./total_cars_TCO/
+***./total_cars_TCO/***
 
-./total_cars.txt
+***./total_cars.txt***
 
 
