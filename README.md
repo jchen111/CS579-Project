@@ -1,6 +1,13 @@
 
 
-Project Repository of CS579 Social Network Analysis, team member JIAQI CHEN, XINGTAN HU, XIAOYANG LU 
+CS579 Social Network Analysis Project
+=====================================
+
+Nowadays, people’s reviews for automobile is not only based on its price and depreciation. The ownership cost is a key factor. One biggest automobile website Edmunds.com has came up with the idea of TCO, which means the True Cost to Own. It calculates the additional costs you may not have included when considering your next vehicle purchase, including: depreciation, interest on your loan, taxes and fees, insurance premiums, fuel costs, maintenance, and repairs.
+
+In this project, we will first collect the review data from Edmunds via Edmunds API. Then trying to take advantage of several existing classification and regression models to complete the machine learning process. At last, we will compare the result we get from our test-set, and draw the conclusion on the connection between TCO price and customer reviews.
+
+
 
 Member Contribution
 ====================
@@ -21,7 +28,7 @@ You need to change the file path in the code.
 
 ***./data_collection_in_type/***
 
-This folder including the initial data we collected.
+This folder including the initial data we collected. There is a predict_TCO_textblob.ipynb in this folder, which is the method we used in the beginning, textblob is another machine learning method.
 
 ***./edmunds_api_test.ipynb***
 
